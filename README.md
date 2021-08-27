@@ -44,7 +44,7 @@ When the user enters the desired city, the page will filter the available data t
 
 When the user enters the desired state, the page will filter the available data to show the entered values' results.
 
-![]()
+![](https://github.com/ALEIN3/UFOs/blob/main/Static/Images/State%20filter.png)
 
 #### Filtering by country 
 
