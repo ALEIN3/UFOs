@@ -21,11 +21,16 @@ You will be able to refresh the page and clean other filters by clicking this bu
 ![](https://github.com/ALEIN3/UFOs/blob/main/Static/Images/Index.png)
 
 ### How to filter the data to get the desired results:
-The user will be able to filter the data based on multiple criteria, and all the filter parameters can be entered simultaneously.:
+The user will be able to filter the data based on multiple criteria, and all the filter parameters can be entered simultaneously:
+
 •	Event date
+
 •	City
+
 •	State
+
 •	Country
+
 •	Shape
 
 #### Filtering by event date
